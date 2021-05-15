@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">O</string>
+    <string name="right_button_name">right</string>
+    <string name="left_button_name">left</string>
+    <string name="item_content_description">menu item</string>
+    <string name="shift">shift</string>
+    <string name="force">force</string>
+    <string name="stone">stone</string>
+    <string name="sound">sound</string>
+    <string name="water">water</string>
+    <string name="fire">fire</string>
+    <string name="sunlight">sunlight</string>
+    <string name="spirit">spirit</string>
+</resources>
