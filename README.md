@@ -1,5 +1,5 @@
 # Android_O
-Animated 2/3D menu effect - Ring/Elliptical menu on Android. 
+Animated 2/3D menu - Ring/Elliptical menu on Android also known as Circular Flow in Android API. 
  
 This 3D visual menu type was featured in PSX game Legacy of Kain : Soul Reaver.
 
