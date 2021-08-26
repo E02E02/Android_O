@@ -1,7 +1,7 @@
 # Android_O
-Legacy 3D menu effect - Ring/Elliptical menu on Android. 
+Animated 2/3D menu effect - Ring/Elliptical menu on Android. 
  
-This 3D visual menu type was featured in the PSX game Legacy of Kain : Soul Reaver.
+This 3D visual menu type was featured in PSX game Legacy of Kain : Soul Reaver.
 
 ![3D menu effect - Legacy of Kain - Soul Reaver](resources/Legacy_of_Kain-Soul_Reaver.webp)
 
